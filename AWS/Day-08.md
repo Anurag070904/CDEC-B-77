@@ -1,3 +1,4 @@
+<img width="1024" height="1536" alt="EFS INSTANCE" src="https://github.com/user-attachments/assets/387c30f8-330e-42ba-98e5-236e0860859a" />
 # 📌 Introduction to NFS (Network File System)
 
 ---
