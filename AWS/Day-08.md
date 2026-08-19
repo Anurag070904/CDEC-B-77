@@ -217,3 +217,4 @@ If mounted successfully, you will see `/mnt/efs` listed.
 ---
 
 🚀 This completes the complete NFS and AWS EFS Practical Guide.
+<img width="1024" height="1536" alt="EFS INSTANCE" src="https://github.com/user-attachments/assets/a1df40e2-fe5b-4f5a-9066-0291c1d2ad6f" />
